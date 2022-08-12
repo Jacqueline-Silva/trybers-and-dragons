@@ -23,7 +23,7 @@ Desenvolver minhas habilidades com Typescript e POO, assim como aplicar os princ
 
 ## :mag: Observações gerais
 
-Os arquivos ***utils.ts*** e ***docker-compose.yml*** foiram elaborados pela Trybe
+Os arquivos ***utils.ts*** e ***docker-compose.yml*** foram elaborados pela Trybe
 
 ## :mailbox: Contatos
 
